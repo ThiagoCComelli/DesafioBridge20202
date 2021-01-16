@@ -14,3 +14,12 @@
   flex-direction: column;
   
 }
+
+.mainApp > img{
+  position: absolute;
+  bottom: 200px;
+  right: -170px;
+  transform: rotate(-90deg);
+  opacity: .1;
+  width: 500px;
+}
