@@ -1,0 +1,16 @@
+.mainApp{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.mainAppContents{
+  max-width: 1280px;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  
+}

@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  frontend:
+    build: ./frontend
+    stdin_open: true
+    tty: true
+    command: npm start
+    ports:
+      - "3000:3000"
+  backend:
+    build: ./backend
+    command: java -jar /app/backend/desafiobridge20202-0.0.1-SNAPSHOT.jar
+    ports:
+      - "8080:8080"
+    
