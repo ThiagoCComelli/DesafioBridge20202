@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.thiagoccomelli.desafiobridge20202.Desafiobridge20202ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.971 s - in io.github.thiagoccomelli.desafiobridge20202.Desafiobridge20202ApplicationTests
